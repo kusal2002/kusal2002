@@ -1,26 +1,20 @@
 # 👋 Hello, World!
 
 ## About Me
-I'm [Your Name], a passionate developer with a love for crafting elegant solutions to complex problems. My programming journey began [mention any significant milestones or experiences]. Currently, I specialize in [your main programming languages or technologies].
+I'm kusal salpura, a passionate developer with a love for crafting elegant solutions to complex problems. My programming journey began 2years of experience. Currently, I specialize in php,C, C++, C# and JavaScript.
 
 ## 🚀 What I Do
-- 💻 I'm proficient in [list your key programming languages and technologies].
-- 🌐 I have a keen interest in [mention any specific areas of interest, e.g., web development, machine learning, etc.].
+- 💻 I'm proficient in Laravel, React JS, NEXT JS, Flutter, React Native, MERN Stack .
+- 🌐 I have a keen interest in Web development, Mobile development and AI.
 
 ## 🌱 Currently Learning
-- Right now, I'm diving deep into [mention any technologies or frameworks you're currently exploring or learning].
-
-## 🛠️ Projects
-I've worked on a variety of projects, including:
-
-- [**Project Name 1**](link): A [short description of the project].
-- [**Project Name 2**](link): [Briefly explain the purpose and features of the project].
-
-## 🔧 Skills
-- [List some key technical skills or tools you're proficient in].
+- Right now, I'm diving deep into Laravel, React JS, NEXT JS, Flutter, React Native, MERN Stack.
 
 ## 📫 Reach Me
-Connect with me on [LinkedIn](your LinkedIn profile link) or follow me on [Twitter](your Twitter profile link).
+Connect with or follow me on .
+-[[LinkedIn](https://www.linkedin.com/in/kusal-salpura-046b70209/)]
+-[[Twitter](https://twitter.com/KusalSalpu8018)]
+-[[Facebook](https://www.facebook.com/kssaparamadu)]
 
 Let's connect, collaborate, and make beautiful code together! 🌈✨
 
