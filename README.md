@@ -11,7 +11,7 @@ I'm kusal salpura, a passionate developer with a love for crafting elegant solut
 - Right now, I'm diving deep into Laravel, React JS, NEXT JS, Flutter, React Native, MERN Stack.
 
 ## 📫 Reach Me
-Connect with or follow me on .
+Connect with or follow me on.
 -[[LinkedIn](https://www.linkedin.com/in/kusal-salpura-046b70209/)]
 -[[Twitter](https://twitter.com/KusalSalpu8018)]
 -[[Facebook](https://www.facebook.com/kssaparamadu)]
