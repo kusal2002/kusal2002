@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Digico labs.
-I am an intern software engineer at DigicoLabs💥.Undergraduate student at SLIIT😇, Game Developer😍.
+🔭 I’m currently working on Digico labs.💥.Undergraduate student at SLIIT😇, Game Developer😍.
 
 <!--
 **kusal2002/kusal2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
