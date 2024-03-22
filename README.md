@@ -21,7 +21,7 @@ Let's connect, collaborate, and make beautiful code together! 🌈✨
 
 Happy coding!
 
-![kusal2002's Stats](https://github-readme-stats.vercel.app/api?username=kusal2002&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![kusal2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kusal2002&theme=vue-dark&hide_border=true)
+![kusal2002's Stats](https://github-readme-stats.vercel.app/api?username=kusal2002&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  ![kusal2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kusal2002&theme=vue-dark&hide_border=true)
 
 
 
