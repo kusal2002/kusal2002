@@ -21,6 +21,11 @@ Let's connect, collaborate, and make beautiful code together! 🌈✨
 
 Happy coding!
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+</p>
+
 
 <!--
 **kusal2002/kusal2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
