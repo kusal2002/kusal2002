@@ -21,6 +21,8 @@ Let's connect, collaborate, and make beautiful code together! 🌈✨
 
 Happy coding!
 
+![kusal2002's Stats](https://github-readme-stats.vercel.app/api?username=kusal2002&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kusal2002/count.svg" />
