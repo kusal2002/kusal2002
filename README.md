@@ -23,7 +23,7 @@ Happy coding!
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+  <img src="https://profile-counter.glitch.me/kusal2002/count.svg" />
 </p>
 
 
