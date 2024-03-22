@@ -23,6 +23,8 @@ Happy coding!
 
 ![kusal2002's Stats](https://github-readme-stats.vercel.app/api?username=kusal2002&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![kusal2002's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kusal2002&theme=vue-dark&hide_border=true)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kusal2002/count.svg" />
