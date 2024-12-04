@@ -1,4 +1,4 @@
-# 👋 Hello, World!
+# 👋 Hello, I am Kusal!
 
 ## About Me
 I'm Kusal Salpura, a passionate developer with 2 years of experience in crafting elegant solutions to complex problems. My programming journey began with a keen interest in web and mobile development. Currently, I specialize in PHP, C, C++, C#, and JavaScript.
