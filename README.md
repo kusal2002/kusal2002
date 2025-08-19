@@ -3,8 +3,8 @@
 <h3 align="center">🚀 Software Developer | Full-Stack Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/kusalsalpura"><img src="https://img.shields.io/github/followers/kusalsalpura?label=Followers&style=social"></a>
-  <a href="https://github.com/kusalsalpura"><img src="https://komarev.com/ghpvc/?username=kusalsalpura&style=flat-square&color=blue"></a>
+  <a href="https://github.com/kusal2002"><img src="https://img.shields.io/github/followers/kusal2002?label=Followers&style=social"></a>
+  <a href="https://github.com/kusal2002"><img src="https://komarev.com/ghpvc/?username=kusal2002&style=flat-square&color=blue"></a>
 </p>
 
 ---
@@ -36,12 +36,12 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kusalsalpura&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusalsalpura&theme=radical" alt="streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kusal2002&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusal2002&theme=radical" alt="streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalsalpura&layout=compact&theme=radical" alt="langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusal2002&layout=compact&theme=radical" alt="langs" height="165"/>
 </p>
 
 ---
@@ -65,4 +65,4 @@
 
 ---
 
-⭐️ From [Kusal](https://github.com/kusalsalpura)  
+⭐️ From [Kusal](https://github.com/kusal2002)  
