@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,c,cpp,php" />
   <br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,laravel,unity,mernstack,angular" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,laravel,unity,flask,angular" />
   <br/>
   <!-- Tools & DB -->
   <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,postgresql,docker,linux" />
