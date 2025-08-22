@@ -10,8 +10,8 @@
 ---
 
 ## 💫 About Me  
-- 🔭 I’m currently working on **LifeSync - AI-powered Life Management App**  
-- 🌱 I’m learning **MERN Stack | Flutter | System Design**  
+- 🔭 I’m currently working on **Open-Shelf - Online Mobile Library App**  
+- 🌱 I’m learning **MERN Stack | Flutter | System Design | Laravel**  
 - 💡 Passionate about **AI apps, SaaS platforms & Game Dev**  
 - 🎯 2025 Goals: **Contribute more to open source**  
 - ⚡ Fun fact: *I debug faster with coffee ☕*  
@@ -22,10 +22,10 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,c,cpp,rust" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,c,cpp,php" />
   <br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,laravel,unity" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,laravel,unity,mernstack,angular" />
   <br/>
   <!-- Tools & DB -->
   <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,postgresql,docker,linux" />
@@ -48,19 +48,19 @@
 
 ## 🌟 Featured Projects  
 
-- 📌 [LifeSync - AI Life Management App](https://github.com/your-repo)  
-- 🎮 [Echoes of Yourself - Unity Puzzle-Adventure](https://github.com/your-repo)  
-- 🛒 [POS System with Laravel + Livewire](https://github.com/your-repo)  
-- 🔥 [AI Logo Generator](https://github.com/your-repo)  
+- 📌 [Chatty Chat - Mobile Messaging App using Flutter](https://github.com/kusal2002/ChattyChat)  
+- 🎮 [App Store Web Application - Apps, Movies, Books Store using PHP](https://github.com/kusal2002/App-Store-Web-Application) 
+- 🛒 [SkillSnap - Money Transaction Mobile App using Android Studio](https://github.com/kusal2002/SkillSnap)
+- 🔥 [Educore- Learning Management using Laravel(2nd Year 2nd Semester Project)](https://github.com/kusal2002/Educore_LMS)
 
 ---
 
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=white"></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kusal-salpura-046b70209"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/KusalSalpu8018"><img src="https://img.shields.io/badge/x-black"></a>
+  <a href="mailto:kusalsalpura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
